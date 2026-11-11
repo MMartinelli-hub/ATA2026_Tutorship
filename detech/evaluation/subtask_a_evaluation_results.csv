@@ -1,0 +1,8 @@
+file_name,micro_precision,micro_recall,micro_f1,type_precision,type_recall,type_f1
+subtaskA_spacy_trained,0.794,0.696,0.742,0.719,0.552,0.625
+subtaskA_bert-base-uncased,0.622,0.545,0.581,0.556,0.461,0.504
+subtaskA_spacy_baseline,0.518,0.603,0.558,0.835,0.258,0.394
+subtaskA_a_vanilla_filtered,0.326,0.479,0.388,0.625,0.179,0.278
+subtaskA_a_vanilla,0.295,0.48,0.365,0.612,0.18,0.278
+subtaskA_nltk_trained,0.126,0.618,0.21,0.696,0.259,0.378
+subtaskA_nltk_baseline,0.1,0.618,0.172,0.623,0.259,0.366

@@ -1,0 +1,12 @@
+file_name,micro_precision,micro_recall,micro_f1,type_precision,type_recall,type_f1
+subtaskA_gemma3-finetuned,0.575,0.485,0.526,0.523,0.445,0.481
+subtaskA_gpt-oss-20b,0.566,0.208,0.304,0.505,0.184,0.27
+subtaskA_gpt-oss-120b,0.538,0.197,0.289,0.468,0.171,0.25
+subtaskA_qwen2.5-1.5b-instruct,0.241,0.144,0.18,0.231,0.151,0.183
+subtaskA_spacy_baseline,0.47,0.598,0.527,0.102,0.52,0.17
+subtaskA_nltk_trained,0.117,0.613,0.196,0.084,0.522,0.145
+subtaskA_a_vanilla_filtered,0.313,0.49,0.382,0.082,0.388,0.135
+subtaskA_a_vanilla,0.287,0.496,0.364,0.081,0.394,0.134
+subtaskA_nltk_baseline,0.092,0.613,0.16,0.076,0.522,0.132
+subtaskA_spacy_trained,0.76,0.745,0.753,0.059,0.751,0.109
+subtaskA_bert-base-uncased,0.59,0.524,0.555,0.044,0.6,0.081
